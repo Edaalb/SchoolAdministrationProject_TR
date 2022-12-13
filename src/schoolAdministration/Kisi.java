@@ -1,4 +1,4 @@
-package schoolManagement;
+package schoolAdministration;
 
 public class Kisi {
 

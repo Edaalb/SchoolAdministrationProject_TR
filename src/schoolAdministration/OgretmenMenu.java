@@ -1,4 +1,4 @@
-package schoolManagement;
+package schoolAdministration;
 
 import java.util.ArrayList;
 import java.util.Scanner;

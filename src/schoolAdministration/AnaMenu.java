@@ -1,7 +1,4 @@
-package schoolManagement;
-
-import schoolManagement.OgrenciMenu;
-import schoolManagement.OgretmenMenu;
+package schoolAdministration;
 
 import java.util.Scanner;
 public class AnaMenu {
